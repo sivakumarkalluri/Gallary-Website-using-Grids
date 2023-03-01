@@ -1,2 +1,2 @@
 # Gallary Website using Grids
- This is website created by using HTML and CSS Grids and flex box
+ This website is created by using HTML, CSS Grids and flex box. <h3>Hover over the cards to see the effects.</h3>
